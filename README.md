@@ -1,4 +1,4 @@
-# PCNWLab Loops
+# PCNWLab Loops (~41 problems)
 Loops topic
 
 To complete this lab, do the following:
